@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d3a745f-84ff-4c86-ba52-129eccf7d90a" name="Default Changelist" comment="" />
+    <list default="true" id="1d3a745f-84ff-4c86-ba52-129eccf7d90a" name="Default Changelist" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,11 +46,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600049715854</updated>
-      <workItem from="1600049722462" duration="403000" />
+      <workItem from="1600049722462" duration="726000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1600050320634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600050320634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
