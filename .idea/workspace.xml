@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d3a745f-84ff-4c86-ba52-129eccf7d90a" name="Default Changelist" comment="first commit" />
+    <list default="true" id="1d3a745f-84ff-4c86-ba52-129eccf7d90a" name="Default Changelist" comment="update route file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -144,6 +147,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -160,7 +169,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600049715854</updated>
-      <workItem from="1600049722462" duration="726000" />
+      <workItem from="1600049722462" duration="1856000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1600050320634</created>
@@ -169,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600050320634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1600050539788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600050539788</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update route file">
+      <created>1600050670989</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600050670989</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +200,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="update route file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update route file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="128" y="86" key="MergeDialog" timestamp="1600050486307">
@@ -188,9 +213,13 @@
       <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state x="318" y="160" key="MultipleFileMergeDialog/0.30.1360.738@0.30.1360.738" timestamp="1600050486323" />
-    <state x="272" y="132" key="Vcs.Push.Dialog.v2" timestamp="1600050546080">
+    <state x="272" y="132" key="Vcs.Push.Dialog.v2" timestamp="1600050675395">
       <screen x="0" y="30" width="1360" height="738" />
     </state>
-    <state x="272" y="132" key="Vcs.Push.Dialog.v2/0.30.1360.738@0.30.1360.738" timestamp="1600050546080" />
+    <state x="272" y="132" key="Vcs.Push.Dialog.v2/0.30.1360.738@0.30.1360.738" timestamp="1600050675395" />
+    <state x="497" y="313" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600051100368">
+      <screen x="0" y="30" width="1360" height="738" />
+    </state>
+    <state x="497" y="313" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1360.738@0.30.1360.738" timestamp="1600051100368" />
   </component>
 </project>
