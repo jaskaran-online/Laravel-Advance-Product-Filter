@@ -13,10 +13,8 @@ use App\Http\Controllers\ProductController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
-Route::get('/products',[ProductController::class,'index']);
+Route::get('/',[ProductController::class,'index']);
 
+//Ajax Route
 Route::post('/productsdata',[ProductController::class,'filter']);
